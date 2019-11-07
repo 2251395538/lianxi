@@ -1,0 +1,6 @@
+# coding=gbk
+age=int(input("输入年龄"))
+if age>18:
+    print("可以观看")
+if age<=18:
+    print("滚去学习")
